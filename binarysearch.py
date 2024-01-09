@@ -15,6 +15,8 @@ while first <= last and not found:
     else:
         first = mid + 1
 
+pos += 1
+
 if found == True:
     print(f'Your search was found at position {mid}')
 else:

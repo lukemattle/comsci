@@ -10,4 +10,6 @@ while found == False and pos < len(data):
     else:
         pos += 1
 
+pos += 1
+
 print(f'Your search was found as position {pos}')
