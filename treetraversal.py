@@ -1,4 +1,5 @@
-# this only works for trees with 3 values (probably maybe) (preorder might work with more than 3 maybe)
+# this only works for trees with 3 values (preorder works with more than 3 maybe)
+
 tree = {
     0: [1, 2, "A"],
     1: [-1, -1, "B"],
